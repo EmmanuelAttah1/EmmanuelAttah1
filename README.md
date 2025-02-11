@@ -7,7 +7,7 @@ Welcome to my GitHub! 👋 I'm Emmanuel Attah-azuzu, a passionate full-stack dev
 ### 🚀 What I Do:
 - **Full-Stack Mastery:** Proficient in Python & JavaScript, crafting robust web applications.
 - **Ethical Hacking:** Enthusiastically delving into cybersecurity to strengthen systems.
-- **DevOps Champion:** Advocating for seamless development and deployment practices.
+- **DevOps enthusiast:** Advocating for seamless development and deployment practices.
 - **AI & ML Enthusiast:** I experiment with AI and find AI/ML fascinating. I readily incorporate them into projects if the need arises.
 
 ### 🔍 Seeking Opportunities:
